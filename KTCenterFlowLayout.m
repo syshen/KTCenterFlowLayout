@@ -40,6 +40,7 @@
                 [updatedAttributes addObject:attrs];
             }
 
+            /*
             UICollectionViewLayoutAttributes *headerAttrs =  [super layoutAttributesForSupplementaryViewOfKind:UICollectionElementKindSectionHeader
                                                                                                    atIndexPath:indexPath];
 
@@ -55,7 +56,8 @@
             {
                 [updatedAttributes addObject:footerAttrs];
             }
-
+            */
+            
             r++;
         }
         s++;
